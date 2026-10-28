@@ -26,6 +26,7 @@
     <modules>
         <module>services/customer-service</module>
         <module>services/api-gateway</module>
+        <module>services/discovery-server</module>
     </modules>
 
     <dependencyManagement>
@@ -40,4 +41,5 @@
         </dependencies>
     </dependencyManagement>
 </project>
+
 
